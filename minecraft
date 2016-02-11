@@ -15,12 +15,12 @@
 ### END INIT INFO
 
 #Settings
-SERVICE='spigot-1.8.jar'
+SERVICE='minecraft_server.1.5.2.jar'
 OPTIONS='nogui'
 USERNAME='shunsuke'
 WORLD='world'
-MCPATH='/home/shunsuke/minecraft0207'
-BACKUPPATH='/home/shunuke/minecraft0207/backup'
+MCPATH='/home/shunsuke/minecraft-server-dqm4mod'
+BACKUPPATH='/home/shunuke/minecraft-server-dqm4mod/backup'
 MAXHEAP=2048
 MINHEAP=1024
 HISTORY=1024
