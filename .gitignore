@@ -1,3 +1,7 @@
 .idea
-ForgeModLoader-server-0.log
-ForgeModLoader-server-0.log.lck
+*.log
+banned-ips.txt
+banned-players.txt
+backup/
+crash-reports/
+*.txt
