@@ -1,5 +1,6 @@
 .idea
 *.log
+*.lck
 banned-ips.txt
 banned-players.txt
 backup/
