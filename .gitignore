@@ -1,8 +1,9 @@
 .idea
 *.log
 *.lck
+*.txt
 banned-ips.txt
 banned-players.txt
 backup/
 crash-reports/
-*.txt
+world/
